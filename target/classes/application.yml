@@ -1,0 +1,9 @@
+webservice:
+ url: http://api.goeuro.com/api/v2/position/suggest/en/
+outputFile:
+  name: locations.csv
+  fields:
+   - id
+   - name
+   - type
+   - geoPosition

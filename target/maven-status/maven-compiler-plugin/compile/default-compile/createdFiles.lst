@@ -1,0 +1,5 @@
+com/goeuro/cli/ws/WebServiceClient.class
+com/goeuro/cli/writer/CSVFileWriter.class
+com/goeuro/Application.class
+com/goeuro/cli/beans/City.class
+com/goeuro/cli/beans/GeoPosition.class
